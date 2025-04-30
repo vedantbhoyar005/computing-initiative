@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sneaker World</title>
+    <link rel="stylesheet" href="ker.css">
+</head>
+<body>
+    <header>
+        <h1>Sneaker World</h1>
+        <p>Explore the coolest sneakers!</p>
+    </header>
+
+    <section class="sneakers">
+        <div class="sneaker-card">
+            <img src="sneaker1.jpg" alt="Sneaker 1">
+            <h2>Air Max 90</h2>
+            <p>Classic comfort and timeless design. A favorite since 1990!</p>
+        </div>
+
+        <div class="sneaker-card">
+            <img src="sneaker2.jpg" alt="Sneaker 2">
+            <h2>Yeezy Boost 350</h2>
+            <p>Modern style meets supreme comfort. Iconic in every step.</p>
+        </div>
+
+        <div class="sneaker-card">
+            <img src="sneaker3.jpg" alt="Sneaker 3">
+            <h2>Jordan 1 Retro</h2>
+            <p>The sneaker that changed the game. Bold and legendary.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Sneaker World. All rights reserved.</p>
+    </footer>
+</body>
+</html>
