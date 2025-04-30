@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.sneakers {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem;
+    gap: 2rem;
+}
+
+.sneaker-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    width: 300px;
+    text-align: center;
+    padding: 1rem;
+}
+
+.sneaker-card img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.sneaker-card h2 {
+    margin: 1rem 0 0.5rem;
+}
+
+.sneaker-card p {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #222;
+    color: white;
+}
+h1{
+    font-family:'Helvetica' ;
+}
